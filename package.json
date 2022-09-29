@@ -3,6 +3,6 @@
     "sass": "^1.55.0"
   },
   "scripts": {
-    "scss": "sass style/style.scss inc/style.css"
+    "scss": "sass style/style.scss style/style.css"
   }
 }
